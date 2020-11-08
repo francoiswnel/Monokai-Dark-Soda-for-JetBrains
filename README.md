@@ -2,7 +2,7 @@
 
 This is my version of the Monokai Dark Soda colour theme for the JetBrains IDEs, including IntelliJ, Clion, PyCharm, Rubymine, etc.
 
-I modified the colour selection from [buymeasoda's Monokai Dark Soda Theme for Sublime Text](https://github.com/buymeasoda/soda-theme), and used [Eclectide's Monokai Theme for IntelliJ](http://eclectide.com/blog/2014/11/23/monokai-theme-intellij/) as a base.
+I modified the colour selection from [buymeasoda's Monokai Dark Soda Theme for Sublime Text](https://github.com/buymeasoda/soda-theme), and used Eclectide's Monokai Theme for IntelliJ as a base.
 
 Update: I have republished this theme as its own repository. It was previously forked from buymeasoda's repo as a means to give him attribution, but that didn't make sense as none of the files between the repos were similar.
 
